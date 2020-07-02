@@ -1,0 +1,21 @@
+{
+    "name": "bil-kode-bibliotek",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-motors": "github:slimcdk/pxt-motors#bb9e9c07c2b73d4536c202cb2d42befb1834d6f9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
